@@ -1,4 +1,4 @@
-# Telecom X – Análisis de Evasión de Clientes (Churn)
+# Telecom X – Análisis de Evasión de Clientes (abandono)
 
 ## Descripción del Proyecto
 Este proyecto tiene como objetivo analizar la evasión de clientes (*churn*) en la empresa de telecomunicaciones Telecom X. La empresa enfrenta una alta tasa de cancelaciones y requiere comprender los factores que llevan a los clientes a abandonar el servicio.  
